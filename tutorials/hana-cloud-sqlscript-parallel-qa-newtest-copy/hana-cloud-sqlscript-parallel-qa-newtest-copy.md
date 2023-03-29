@@ -2,7 +2,7 @@
 title: Parallel Processing and Parameters QA-Green qa-newtest copy
 description: Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 primary_tag: topic>Internet-of-Things
-tags: [ tutorial>intermediate, topic>javascript ] 
+tags: [ tutorial>intermediate, topic>javascript, tutorials>community ] 
 time: 15
 ---
 
