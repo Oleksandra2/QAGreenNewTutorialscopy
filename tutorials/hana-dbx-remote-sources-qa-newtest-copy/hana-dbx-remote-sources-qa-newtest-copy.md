@@ -65,11 +65,9 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
     <!-- border --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
 
----
 
 [DONE]
 
----
 
 ### Create a remote source from SAP HANA, express edition to SAP HANA Cloud
 
